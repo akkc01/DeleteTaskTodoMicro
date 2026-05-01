@@ -10,6 +10,7 @@ Before getting started, make sure you have the following prerequisites installed
 - [Docker](https://docs.docker.com/get-docker/)
 - Docker Compose (usually included with Docker Desktop on Windows and Docker for Mac)
 
+
 ## Step 1: Clone the Repository
 
 Clone the application's source code from your version control system or download it as a zip archive and extract it to your local machine.
