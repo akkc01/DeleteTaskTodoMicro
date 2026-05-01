@@ -5,7 +5,6 @@ Certainly! Here's a README file to help you run the Python application using Doc
 This guide will walk you through the process of building a Docker image and running a Python application using FastAPI, which interacts with a Microsoft SQL Server database using PyODBC. The application is containerized for easy deployment and scaling.
 
 ## Prerequisites
-
 Before getting started, make sure you have the following prerequisites installed on your system:
 
 - [Docker](https://docs.docker.com/get-docker/)
